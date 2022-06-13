@@ -12,7 +12,7 @@
   <img align="center" alt="cadu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="cadu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="cadu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="cadu-pic" height="130" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/715599318115156009/937071616674893884/Media_220129_164541.gif">
+  <img align="right" alt="cadu-pic" height="130" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/715599318115156009/985907680273137724/Design_sem_nome_1.gif">
   </div>
   
   ##
