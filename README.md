@@ -1,6 +1,6 @@
 ### Ola, eu sou o Carlos Eduardo !!😊
 - 🌱 Estudando java
-- 😄 Pronomes ele/dele
+- 😄 Tenho 22 anos
 
 <div align="center">
   <a href="https://github.com/cadu8">
