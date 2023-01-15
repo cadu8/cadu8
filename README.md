@@ -5,7 +5,6 @@
 <div align="center">
   <a href="https://github.com/cadu8">
   <img height="182em" src="https://github-readme-stats.vercel.app/api?username=cadu8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br>
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadu8&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
