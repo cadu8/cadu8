@@ -1,5 +1,5 @@
 ### Ola, eu sou o Carlos Eduardo !!😊
-- 🌱 Estudando java
+- 🌱 Estudando PHP, JS, HTML, CSS, Vue3 e Yii2
 - 😄 Tenho 22 anos
 
 <div align="center">
@@ -11,7 +11,7 @@
   <img align="center" alt="cadu-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="cadu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="cadu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="cadu-pic" height="180" style="border-radius:60px;" src="https://cdn.discordapp.com/attachments/715599318115156009/1064192831729713235/picasion.com_074ca14a9762cffae4d5d187c96160d3.gif">
+
   </div>
   
   ##
