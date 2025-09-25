@@ -1,6 +1,6 @@
 ### Ola, eu sou o Carlos Eduardo !!😊
-- 🌱 Estudando PHP, JS, HTML, CSS, Vue3 e Yii2
-- 😄 Tenho 22 anos
+- 🌱 Estudando Power BI, Python, SQL
+- 😄 Tenho 25 anos
 
 <div align="center">
   <a href="https://github.com/cadu8">
@@ -8,9 +8,9 @@
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadu8&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block">
-  <img align="center" alt="cadu-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="cadu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="cadu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="cadu-Js" height="30" width="30" src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000">
+  <img align="center" alt="cadu-HTML" height="30" width="30" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
+  <img align="center" alt="cadu-CSS" height="30" width="30" src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000">
 
   </div>
   
